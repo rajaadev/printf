@@ -109,7 +109,7 @@ int print_number_left_shift(char *str, params_t *params);
 /* params.c module */
 void init_params(params_t *params, va_list ap);
 
-/* params.c module */
+/* precision.c module */
 char *get_precision(char *p, params_t *params, va_list ap);
 
 
